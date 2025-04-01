@@ -15,7 +15,7 @@ Bu benim yaptığım bir bağımsız bir okul proje oyunum :D
 
 ## Git ile yükle 📎
 ```cmd
-git clone https://github.com(Mav1zz/Jump.demo.git
+git clone https://github.com/Mav1zz/Jump.demo.git
 ```
 
 ## Direkt yükle 📦
