@@ -1,6 +1,14 @@
 ![JUMP](imgs/jump_banner.png)
 
-# Jump (Demo)
+<div align="center">
+
+# JUMP <br>
+
+<img alt="RageMic Logo" src="https://img.shields.io/badge/Dünyanın En Tuğaf Oyunu-darkblue">
+<img alt="Python" src="https://img.shields.io/badge/python-3.13.2-blue">
+<img alt="License" src="https://img.shields.io/badge/license-MIT-green">
+
+</div>
 
 Bu benim yaptığım bir bağımsız bir okul proje oyunum :D
 
