@@ -19,8 +19,7 @@ git clone https://github.com/Mav1zz/Jump.demo.git
 ```
 
 ## Direkt yükle 📦
-> sağ taraftan realest kısmından zip dosyasını indirebilirsin. (zip dosyasının içinde o kadarınıda bil.)
-
+> [Buradan](https://github.com/Mav1zz/Jump.demo/releases/tag/v0.0.1-build915) gidip indirebilirsin. :D
 ## Desteklenen platformlar 📱
 Şimdilik `Windows` tabanlı sistemlerde çalışır daha sonra `linux`,`macos` ve `android` getirmeyi düşünüyorum.
 
